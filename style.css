@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+.object_detection{
+    margin-top:25px;
+    width:240px;
+    font-size:25px;
+}
+.status{
+    font-size:20px;
+    width:100%;
+}
+canvas{
+    border-width:2px;
+    border-radius:20px;
+    box-shadow: 15px 15px 15px  green;
+    MARGIN-TOP:50PX;
+    
+}
+#number_of_objects{
+    margin-left: 50px;
+}
+
